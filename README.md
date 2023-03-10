@@ -47,6 +47,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alexandre-milim}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Soares363}/count.svg" /></p> 
 <br></div>
 
